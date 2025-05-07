@@ -1,5 +1,5 @@
 # Exp.No:2c
-## BUILT-IN FUNCTIONS AND LAMBDA FUNCTIONS -# Lambda Function to Multiply by 56 in Python
+## BUILT-IN FUNCTIONS AND LAMBDA FUNCTIONS -Lambda Function to Multiply by 56 in Python
 
 ## Aim
 To write a Python program using a lambda function that takes `z` as a parameter and returns `z * 56`.
