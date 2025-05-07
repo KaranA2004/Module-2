@@ -1,8 +1,6 @@
 # Exp.No:2d
 ## LOOPING PATTERNS - PRINTING PATTERN
 
-# Alternate Number Pattern in Python
-
 ## Aim
 To write a Python program to print an alternate number pattern, where each row contains repeated odd numbers.
 
