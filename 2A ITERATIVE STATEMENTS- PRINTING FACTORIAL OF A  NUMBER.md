@@ -18,7 +18,8 @@ To create a Python program to compute the factorial for a given number using a `
 
 ### 🧾 Program
 
-```import math
+```
+import math
 number = int(input())
 result = math.factorial(number)
 print(f"Factorial of the given number {number} is {result}")
