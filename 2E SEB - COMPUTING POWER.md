@@ -1,28 +1,26 @@
 # Exp.No:2e  
-## SEB - COMPUTING POWER
+## SEB - Input and Output of Integer and Float in Python
 
----
+## Aim
+To write a Python program that reads one integer and one float value, then prints the values.
 
-### AIM  
-To write a Python program to compute the power of a given number using an appropriate built-in function.
+## Algorithm
+1. Begin the program.
+2. Use `input()` to read an integer value and convert it to `int()`.
+3. Use `input()` again to read a float value and convert it to `float()`.
+4. Print both values using `print()`.
+5. Terminate the program.
 
----
+## Program
+```python
+a = int(input())
+b = float(input())
+print(a)
+print(b)
 
-### ALGORITHM
-
-1. Begin the program.  
-2. Input the base number (`base`) from the user.  
-3. Input the exponent number (`exp`) from the user.  
-4. Use the built-in `pow()` function to compute the base raised to the power of the exponent.  
-5. Print the result using the `print()` function, displaying the power in a formatted output.  
-6. Terminate the program.
-
----
-
-### PROGRAM
-
-```
 ```
 ### OUTPUT
+![image](https://github.com/user-attachments/assets/e95c77ee-0f70-4115-bdfc-7d9b74d2ff85)
 
 ### RESULT
+Thus, the Python program was successfully executed to read one integer and one float value from the user and print both values.
