@@ -28,7 +28,7 @@ print(f"Factorial of the given number {number} is {result}")
 ```
 ### OUTPUT
 ```
-"C:\Users\hp\Pictures\Screenshots\Screenshot 2025-05-07 103025.png"
+![Screenshot 2025-05-07 103025](https://github.com/user-attachments/assets/b23a326f-8d28-47db-870f-0024a8e206c7)
 
 ```
 ### RESULT
