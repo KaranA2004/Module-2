@@ -1,8 +1,6 @@
 # Exp. No: 2a  
 ## ITERATIVE STATEMENTS – PRINTING FACTORIAL OF A  NUMBER
 
-# Factorial Calculator in Python
-
 ## Aim
 To create a Python program to compute the factorial for a given number using a `for` loop.
 
