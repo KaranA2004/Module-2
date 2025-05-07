@@ -1,37 +1,38 @@
 # Exp. No: 2a  
 ## ITERATIVE STATEMENTS – PRINTING N NATURAL NUMBERS
 
-###  Aim
-To create a Python program for printing `n` natural numbers using a `for` loop.
+# Factorial Calculator in Python
 
----
+## Aim
+To create a Python program to compute the factorial for a given number using a `for` loop.
 
-###  Algorithm
-
+## Algorithm
 1. Begin the program.
-2. Use `input()` to read the value of `n` (the upper limit) from the user.
-3. Convert the input to an integer.
-4. Display the message **"Natural Numbers are :"**.
-5. Use a `for` loop to iterate from 1 to `n` (inclusive).
-6. In each iteration, print the current value of `i`.
-7. Terminate the program.
+2. Use `input()` to read the value of `n` from the user.
+3. Convert the input to an integer using `int()`.
+4. Initialize a variable `factorial` with the value `1`.
+5. Use a `for` loop to iterate from `1` to `n` (inclusive).
+6. In each iteration, multiply `factorial` by the current value of `i`.
+7. After the loop ends, display the result using `print()`.
+8. Terminate the program.
 
 ---
 
 ### 🧾 Program
 
-```python
-#Reg.NO
-#Name
-#Write your Code here
+```import math
+number = int(input())
+result = math.factorial(number)
+print(f"Factorial of the given number {number} is {result}")
 
 ```
 ### OUTPUT
 ```
+![image](https://github.com/user-attachments/assets/12e5c161-0e05-45ab-9bc1-882ed6bd81ed)
 
 ```
 ### RESULT
 ```
-
+Thus, the Python program was successfully implemented to compute and display the factorial of a given number using a for loop.
 ```
 
