@@ -1,5 +1,5 @@
 # Exp. No: 2a  
-## ITERATIVE STATEMENTS – PRINTING N NATURAL NUMBERS
+## ITERATIVE STATEMENTS – PRINTING FACTORIAL OF A  NUMBERS
 
 # Factorial Calculator in Python
 
@@ -28,7 +28,7 @@ print(f"Factorial of the given number {number} is {result}")
 ```
 ### OUTPUT
 ```
-![image](https://github.com/user-attachments/assets/12e5c161-0e05-45ab-9bc1-882ed6bd81ed)
+"C:\Users\hp\Pictures\Screenshots\Screenshot 2025-05-07 103025.png"
 
 ```
 ### RESULT
