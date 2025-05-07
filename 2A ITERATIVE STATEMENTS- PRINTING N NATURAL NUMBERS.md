@@ -27,10 +27,8 @@ print(f"Factorial of the given number {number} is {result}")
 
 ```
 ### OUTPUT
-```
 ![Screenshot 2025-05-07 103025](https://github.com/user-attachments/assets/b23a326f-8d28-47db-870f-0024a8e206c7)
 
-```
 ### RESULT
 ```
 Thus, the Python program was successfully implemented to compute and display the factorial of a given number using a for loop.
