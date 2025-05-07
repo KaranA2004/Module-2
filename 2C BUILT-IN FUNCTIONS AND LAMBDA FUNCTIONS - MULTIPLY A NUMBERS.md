@@ -18,13 +18,7 @@ print(double(z))
 ```
 
 ### OUTPUT
-
-```
-
-```
+![image](https://github.com/user-attachments/assets/3e238f02-9599-4d21-8228-5640f4700fce)
 
 ### RESULT
-
-```
-
-```
+Thus, the Python program was successfully executed using a lambda function to multiply the given number by 56 and print the result.
