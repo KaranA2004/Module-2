@@ -1,5 +1,5 @@
 # Exp.No:2b  
-## FUNCTIONS - ## AVERAGE OF THREE NUMBERS
+## FUNCTIONS - AVERAGE OF THREE NUMBERS
 
 ## Aim
 To create a Python program that defines a function to accept three values and return their average.
